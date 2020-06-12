@@ -45,7 +45,7 @@
 | 第三章   | 1.数据建模	     |  [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0--%E5%BB%BA%E6%A8%A1-%E8%AF%BE%E7%A8%8B.ipynb)      |
 |      |       | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0--%E5%BB%BA%E6%A8%A1.ipynb)       |
 |    | 2.模型评估	    | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0---%E8%AF%84%E4%BB%B7-%E8%AF%BE%E7%A8%8B.ipynb)     |
-|     |      | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0--%E5%BB%BA%E6%A8%A1.ipynb)       |
+|     |      | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Data/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%89%E7%AB%A0%E6%A8%A1%E5%9E%8B%E5%BB%BA%E7%AB%8B%E5%92%8C%E8%AF%84%E4%BC%B0---%E8%AF%84%E4%BB%B7.ipynb)       |
 
 ## 反馈
 * 如果有任何想法可以联系邮箱（chenands@qq.com）
