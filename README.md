@@ -27,7 +27,7 @@
 ## 内容导航
 
 | 章节 | 小结 | 内容 |
-| :---         |     :---:      |          ---: |
+| :---         |     :---      |          :--- |
 | 第一章   |  1. 数据载入及初步观察     | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%8A%82%E6%95%B0%E6%8D%AE%E8%BD%BD%E5%85%A5%E5%8F%8A%E5%88%9D%E6%AD%A5%E8%A7%82%E5%AF%9F-%E8%AF%BE%E7%A8%8B.ipynb)      |
 |      |      | [参考答案](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%B8%80%E8%8A%82%E6%95%B0%E6%8D%AE%E8%BD%BD%E5%85%A5%E5%8F%8A%E5%88%9D%E6%AD%A5%E8%A7%82%E5%AF%9F.ipynb)      |
 |   | 2.pandas基础     | [课程](https://nbviewer.jupyter.org/github/andongBlue/Thinking-Ddata/blob/master/%E7%AC%AC%E4%B8%80%E5%8D%95%E5%85%83%E9%A1%B9%E7%9B%AE%E9%9B%86%E5%90%88/%E7%AC%AC%E4%B8%80%E7%AB%A0%EF%BC%9A%E7%AC%AC%E4%BA%8C%E8%8A%82pandas%E5%9F%BA%E7%A1%80-%E8%AF%BE%E7%A8%8B.ipynb)      |
